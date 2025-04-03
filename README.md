@@ -1,39 +1,47 @@
+---
+layout: default
+---
+
 # Nimesh Patel | Senior Data Scientist & Cloud Architect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOURPROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Nimesh-Patel)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:Nimesh75@gmail.com)
-
-```diff
-+-----------------------------------------------------------------------------+
-| 24+ years in Data Science | Azure Cloud | Public Health Informatics         |
-+-----------------------------------------------------------------------------+
-
-🚀 Core Expertise
 <div align="center">
-Cloud Architecture	Data Science	DevOps
-• Azure ML/Databricks
-• ADF/Pipelines
-• Cosmos DB	• TensorFlow/Keras
-• Epidemiological Forecasting
-• SAS/R/Python	• GitHub Runners
-• Docker/Kubernetes
-• CI/CD Automation
+  <img src="assets/images/profile-banner.png" alt="Header Banner" width="100%">
 </div>
-🔥 Recent Innovations
-# CDCgov/cfa_azure Python Module
-def deploy_azure_batch():
-    """Automated 40% faster model deployments"""
-    import cfa_azure
-    cfa_azure.upload_container()
-    cfa_azure.create_batch_pool()
-🏆 Career Highlights
-💻 CDC Center for Forecasting Analytics (2022-Present)
-30% cost reduction in Azure services through optimization
 
-COR for $46.6M cloud infrastructure projects
+<!-- Visitor Counter -->
+<div align="right">
+  <small>Profile Views</small><br>
+  <img id="visitor-counter" src="https://visitor-badge.glitch.me/badge?page_id=Nimesh-Patel.Nimesh-Patel" alt="Visitor Count">
+</div>
 
-FISMA/NIST 800-53 compliant data pipelines
+## 🚀 Core Expertise
+<!-- Skill Cards -->
+<div class="skill-grid">
+  <div class="skill-card">
+    <h3>Cloud Architecture</h3>
+    <ul>
+      <li>Azure ML/Databricks</li>
+      <li>ADF/Pipelines</li>
+      <li>Cosmos DB</li>
+    </ul>
+  </div>
+  
+  <div class="skill-card">
+    <h3>Data Science</h3>
+    <ul>
+      <li>TensorFlow/Keras</li>
+      <li>Epidemiological Forecasting</li>
+      <li>SAS/R/Python</li>
+    </ul>
+  </div>
+</div>
+
+<!-- Interactive Diagram -->
+```mermaid
+graph TD
+    A[GitHub Actions] --> B(Self-Hosted Runners)
+    B --> C[Azure Batch]
+    C --> D{ML Models}
 
 📊 NCIPC Data Science (2020-2022)
 NLP chatbots handling 150+ weekly queries
