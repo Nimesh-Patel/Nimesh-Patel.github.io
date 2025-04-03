@@ -2,3 +2,8 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-mermaid
   - jekyll-relative-links
+sass:
+  style: compressed
+
+assets:
+  - assets/style.css
