@@ -1,4 +1,4 @@
-# Nimesh Kumar Patel - Professional Resume
+# NimeshKumar Patel - Professional Resume
 
 This repository hosts my professional resume as a GitHub Pages website.
 
